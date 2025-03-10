@@ -1,0 +1,2 @@
+1-Defina o caminho da pasta que quer renomear os arquivos removendo um trecho.
+2-Digite o texto que quer remover. (ex:(PT-BR)
